@@ -93,6 +93,7 @@ li a {
 	display: inline-block;
 	text-aligh:right;
 	margin-left:15px;
+	margin-bottom:10px;
 }
 .article_text{
 	font: normal 17px Fixed, monospace;
